@@ -1,0 +1,19 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+The  new version was compared with the old one and the code that changed along it line number was dispolayed
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+use git log to get the history of the commits on the file , then use the commit id's compare the files using git diff
+
+How might using version control make you more confident to make changes that could break something?
+we can always restore into a previous version if a break happenes and y using git diif command find the buggy lines
+
+
+What happens when you initialize a repository? Why do you need to do it?
