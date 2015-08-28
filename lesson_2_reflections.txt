@@ -1,1 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
+
+A local repo is made , and git keeps track of all the files in the repo 
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+working directory is directory being accesed currently , we can add files that we want to commit from the working directory to the staging area .
